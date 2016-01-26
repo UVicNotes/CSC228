@@ -2,6 +2,8 @@
 
 [![Build Status](https://travis-ci.org/UVicNotes/ELEC-310.svg?branch=master)](https://travis-ci.org/UVicNotes/CSC-226)
 
+[](butthole)
+
 ### [View on GitHub Pages](http://uvicnotes.github.io/CSC-226/)
 
 ## Contributing
