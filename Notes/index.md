@@ -19,7 +19,7 @@ Mondays and Thursdays, 8:30 AM - 9:50 AM
 ## Textbooks	
 Required:	Algorithms (Fourth Edition) Robert Sedgewick and Kevin Wayne Addison-Wesley, 2011
 
-## I-clickers	
+## IClickers	
 Students are required to bring their iClickers to each lecture; the clickers will not be used in the labs.
 
 ## Grading
